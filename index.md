@@ -16,10 +16,10 @@ This lesson will help you understand the process of conducting an API request an
 
 ## 1. Basics of an Application Programming Interface
 
-WATCH: “What is an API? Learn the Basics in 3 Minutes”
+**WATCH:** “What is an API? Learn the Basics in 3 Minutes”
 A beginner’s guide to the world of APIs with examples from Uber, Tinder, and Yelp https://uncubed.com/videos/uncubed/how-apis-work
 
-READ: What is an API? A more in-depth definition
+**READ:** What is an API? A more in-depth definition
 The Digital Public Library of America provides an good explanation of how API’s work and why they are so useful. https://pro.dp.la/developers/api-basics/
 
 <img src="images/API_IntroVideo.png" alt="video" width="600"/>
@@ -44,7 +44,7 @@ As part of the assignment you will need to request an API key from DPLA. To acco
 ## 3. Submit an API request to the Digital Public Library of America
 Once you have an API key you are able to submit an API request to DPLA and download the descriptive metadata from its collections. You can use the base URL of the API to search for any number of items, collections, or even search a particular field like title.  This is where the fun begins! To learn how to do this: 
 
-READ: One-page guide on the different kinds requests that you can make https://pro.dp.la/developers/requests 
+**READ:** One-page guide on the different kinds requests that you can make https://pro.dp.la/developers/requests 
 
 Example:  To find all items in DPLA that has the word “kittens” in any field, here is the URL I would add to a browser: <https://api.dp.la/v2/items?q=kitten&api_key=>
 
@@ -73,8 +73,6 @@ Follow these steps:
 * Click on the XLSX button (located just right of the green “DOWNLOAD CSV” button)
 * You will be prompted to download the XLSX file
 * Name the file and download it to your computer
-
-Data conversion to XLSX
 
 
 [Return to Top](#about)
