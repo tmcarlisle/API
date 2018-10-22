@@ -1,4 +1,4 @@
-## About
+## About 
 Last Updated 10/20/2018 <br/>
 Created by Tara Carlisle
  
