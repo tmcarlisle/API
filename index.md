@@ -2,7 +2,9 @@
 
 An application programming interface (API) is a clearly defined method of communicating between software systems. An API allows you to ask questions of another system and receive responses and pull data from the system. This lesson will help you understand the process of conducting an API request to download a particular subset of data from the Digital Public Library of America’s remote server. 
  
-### Steps for this lesson:
+### Introduction:
+The following are steps for this API lesson:
+
 * [Learn the basics of an API](#learn-the-basics-of-an-API)
 * [Request an API key](#request-an-API-key) 
 * [Submit an API request to DPLA](#submit-an-API-request-to-DPLA)
@@ -33,6 +35,8 @@ As part of the assignment you will need to request an API key from DPLA. To acco
 * At the Terminal’s prompt, paste the following url and add your own email address in place of the example address: https://api.dp.la/v2/api_key/YOUR_EMAIL@example.com 
 * DPLA (info@dp.la) will send you an API key via email which will be a long string of numbers and letters like this: 99ca63b3cfd9d1721a712f2bea9 (if you don’t receive the message check your junk mail) 
 
+<img src="images/API_mac_terminal.png" alt="video" width="600"/>
+
 ## 3. Submit an API request to the Digital Public Library of America
 Once you have an API key you are able to submit an API request to DPLA and download the descriptive metadata from its collections. You can use the base URL of the API to search for any number of items, collections, or even search a particular field like title.  This is where the fun begins! To learn how to do this: 
 
@@ -47,8 +51,10 @@ https://api.dp.la/v2/items?q=dog&sort_by=sourceResource.title&api_key=85399ca63b
 Don’t forget to add YOUR unique API key to the end of the request as I have done in the above example.
 
 API request
+<img src="images/API_URLrequest.png" alt="url request" width="600"/>
 
 JSON data received from API request
+<img src="images/API_apirequest.png" alt="url request" width="600"/>
 
 ## 4. Convert JSON data to CSV file
 The data that you receive from DPLA is in JSON format (image above) and thus difficult to read or analyze. Fortunately,  JSON can be converted to Excel (XLSX) format using a web accessible converter tool.  
@@ -61,6 +67,8 @@ Follow these steps:
 * Click on the XLSX button (located just right of the green “DOWNLOAD CSV” button)
 * You will be prompted to download the XLSX file
 * Name the file and download it to your computer
+
+Data conversion to XLSX
 
 
 [Return to Top](#about)
