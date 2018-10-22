@@ -55,9 +55,11 @@ https://api.dp.la/v2/items?q=dog&sort_by=sourceResource.title&api_key=85399ca63b
 Don’t forget to add YOUR unique API key to the end of the request as I have done in the above example.
 
 API request
+
 <img src="images/URL_google.png" alt="url request" width="600"/>
 
 JSON data received from API request
+
 <img src="images/API_apirequest.png" alt="url request" width="600"/>
 
 ## 4. Convert JSON data to CSV file
