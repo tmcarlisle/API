@@ -5,9 +5,9 @@ Created by Tara Carlisle
 ### Table of Contents
 
 * [Learn the basics of an API](#1-basics-of-an-application-programming-interface)
-* [Request an API key](#2-request-an-API-key) 
-* [Submit an API request to DPLA](#3-submit-an-API-request-to-the-digital-public-library-of-america)
-* [Convert downloaded data to a CSV file](#4-convert-JSON-data-to-CSV-file)
+* [Request an API key](#2-request-an-api-key) 
+* [Submit an API request to DPLA](#3-submit-an-api-request-to-the-digital-public-library-of-america)
+* [Convert downloaded data to a CSV file](#4-convert-json-data-to-csv-file)
 
 ## Introduction
 An application programming interface (API) is a clearly defined method of communicating between software systems. An API allows you to ask questions of another system and receive responses and pull data from the system. 
