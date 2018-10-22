@@ -46,11 +46,11 @@ Once you have an API key you are able to submit an API request to DPLA and downl
 
 READ: One-page guide on the different kinds requests that you can make https://pro.dp.la/developers/requests 
 
-Example:  To find all items in DPLA that has the word “kittens” in any field, here is the URL I would add to a browser: https://api.dp.la/v2/items?q=kitten&api_key=
+Example:  To find all items in DPLA that has the word “kittens” in any field, here is the URL I would add to a browser: <https://api.dp.la/v2/items?q=kitten&api_key=>
 
 But something is missing from the request URL above. What is it? 
 My unique api key is missing. Here what the full request would look like using a sample key.
-https://api.dp.la/v2/items?q=dog&sort_by=sourceResource.title&api_key=85399ca63b3
+<https://api.dp.la/v2/items?q=dog&sort_by=sourceResource.title&api_key=85399ca63b3>
 
 Don’t forget to add YOUR unique API key to the end of the request as I have done in the above example.
 
