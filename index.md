@@ -29,14 +29,14 @@ As part of the assignment you will need to request an API key from DPLA. To acco
 
 ### For Windows users:
 * Click on Start in bottom left of screen> In the search box type “command” > Click on “Command Prompt” listed in the pull-up menu.
-* At the [c:\...] prompt, paste the following url and add your own email address in place of the example address: https://api.dp.la/v2/api_key/YOUR_EMAIL@example.com 
+* At the [c:\...] prompt, paste the following command and url and add your own email address in place of the example address: curl -v -XPOST https://api.dp.la/v2/api_key/YOUR_EMAIL@example.com 
 * DPLA (info@dp.la) will send you an API key via email which will be a long string of numbers and letters like this: 99ca63b3cfd9d1721a712f2bea9 (if you don’t receive the message check your junk mail) 
 
 <img src="images/API_windows_shell.png" alt="windows" class="center" width="600"/>
 
 ### For MAC users:
 * Open Finder > Open your Applications folder > Open Utilities folder > Open Terminal
-* At the Terminal’s prompt, paste the following url and add your own email address in place of the example address: https://api.dp.la/v2/api_key/YOUR_EMAIL@example.com 
+* At the Terminal’s prompt, paste the following command and url and add your own email address in place of the example address: curl -v -XPOST https://api.dp.la/v2/api_key/YOUR_EMAIL@example.com 
 * DPLA (info@dp.la) will send you an API key via email which will be a long string of numbers and letters like this: 99ca63b3cfd9d1721a712f2bea9 (if you don’t receive the message check your junk mail) 
 
 <img src="images/API_mac_terminal.png" alt="video" width="600"/>
