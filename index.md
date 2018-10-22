@@ -1,14 +1,18 @@
 ## About
-
-An application programming interface (API) is a clearly defined method of communicating between software systems. An API allows you to ask questions of another system and receive responses and pull data from the system. This lesson will help you understand the process of conducting an API request to download a particular subset of data from the Digital Public Library of America’s remote server. 
+Last Updated 10/20/2018
+Created by Tara Carlisle
  
-### Introduction:
-The following are steps for this API lesson:
+### Table of Contents
 
 * [Learn the basics of an API](#learn-the-basics-of-an-API)
 * [Request an API key](#request-an-API-key) 
 * [Submit an API request to DPLA](#submit-an-API-request-to-DPLA)
 * [Convert downloaded data to a CSV file](#convert-download-data-to-a-CSV-file)
+
+## Introduction
+An application programming interface (API) is a clearly defined method of communicating between software systems. An API allows you to ask questions of another system and receive responses and pull data from the system. 
+
+This lesson will help you understand the process of conducting an API request and walk you through the steps to download a particular subset of data from the Digital Public Library of America’s remote server. 
 
 ## 1. Basics of an Application Programming Interface
 
