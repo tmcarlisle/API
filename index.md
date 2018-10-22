@@ -3,20 +3,20 @@
 An application programming interface (API) is a clearly defined method of communicating between software systems. An API allows you to ask questions of another system and receive responses and pull data from the system. This lesson will help you understand the process of conducting an API request to download a particular subset of data from the Digital Public Library of America’s remote server. 
  
 ### Steps for this lesson:
-* Learn the basics of an API 
-* Request an API key 
-* Submit an API request to DPLA
-* Convert downloaded data to a CSV file
+* [Learn the basics of an API](#learn-the-basics-of-an-API)
+* [Request an API key](#request-an-API-key) 
+* [Submit an API request to DPLA](#submit-an-API-request-to-DPLA)
+* [Convert downloaded data to a CSV file](#convert-download-data-to-a-CSV-file)
 
 ## 1. Basics of an Application Programming Interface
 
 WATCH: “What is an API? Learn the Basics in 3 Minutes”
 A beginner’s guide to the world of APIs with examples from Uber, Tinder, and Yelp https://uncubed.com/videos/uncubed/how-apis-work
 
-
 READ: What is an API? A more in-depth definition
 The Digital Public Library of America provides an good explanation of how API’s work and why they are so useful. https://pro.dp.la/developers/api-basics/
 
+! [What is an API? Learn the Basics in 3 Minutes](/images/API_IntroVideo.png
 
 ## 2. Request an API key
 As part of the assignment you will need to request an API key from DPLA. To accomplish this task you will request the key using the command line on your computer, which is an under-the-hood view of a computer. Here are the steps to request an API key from your computer’s command line. 
