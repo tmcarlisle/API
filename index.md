@@ -62,8 +62,4 @@ Follow these steps:
 * Name the file and download it to your computer
 
 
-
-
-
-
 [Return to Top](#about)
