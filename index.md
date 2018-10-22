@@ -16,7 +16,7 @@ A beginner’s guide to the world of APIs with examples from Uber, Tinder, and Y
 READ: What is an API? A more in-depth definition
 The Digital Public Library of America provides an good explanation of how API’s work and why they are so useful. https://pro.dp.la/developers/api-basics/
 
-! [What is an API? Learn the Basics in 3 Minutes](/images/API_IntroVideo.png
+! [What is an API? Learn the Basics in 3 Minutes](/images/API_IntroVideo.png)
 
 ## 2. Request an API key
 As part of the assignment you will need to request an API key from DPLA. To accomplish this task you will request the key using the command line on your computer, which is an under-the-hood view of a computer. Here are the steps to request an API key from your computer’s command line. 
