@@ -28,8 +28,8 @@ The Digital Public Library of America provides an good explanation of how API’
 As part of the assignment you will need to request an API key from DPLA. To accomplish this task you will request the key using the command line on your computer, which is an under-the-hood view of a computer. Here are the steps to request an API key from your computer’s command line. 
 
 ### For Windows users:
-* Click on Start in bottom left of screen> In the search box type “command” > Click on “Command Prompt” listed in the pull-up menu.
-* At the [c:\...] prompt, paste the following command and url and add your own email address in place of the example address: curl -v -XPOST https://api.dp.la/v2/api_key/YOUR_EMAIL@example.com 
+* Click on Start in bottom left of screen> In the search box type “run” > Click on “run” listed in the pull-up menu.
+* In the run command box, paste the following url and add your own email address in place of the example address: curl -v -XPOST https://api.dp.la/v2/api_key/YOUR_EMAIL@example.com 
 * DPLA (info@dp.la) will send you an API key via email which will be a long string of numbers and letters like this: 99ca63b3cfd9d1721a712f2bea9 (if you don’t receive the message check your junk mail) 
 
 <img src="images/API_windows_shell.png" alt="windows" class="center" width="600"/>
